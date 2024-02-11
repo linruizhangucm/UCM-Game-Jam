@@ -3,9 +3,9 @@
 ## THEME
 TBD
 ## Important Dates
-+ Registration opens: Feb 26 – March 1
-+ Theme reveal: March 11
-+ Game submission: March 22
++ **Registration opens**: Feb 26 – March 1
++ **Theme reveal**: March 11
++ **Game submission**: March 22
 ## About the Event:
 UCM Game Jam is an annual event organized by the UCM Computer Science Department. This initiative aims to ignite students' passion for game development, enhance their game design and development skills, and foster healthy competition for prizes. Participants can engage either **individually** or form **teams of up to four** members and will have a **two-week** timeframe for planning, designing, and crafting a video game from scratch based on a specific theme. At the end of the jam, submitted games will be evaluated by faculty members from the CS department, and winners will be awarded mini prizes - Starbucks gift card. Students are offered a choice between three participation tracks, namely **beginner**, **Community** and **professional**, tailored to their expertise levels. The competition will recognize **three** outstanding entries in each track, ranging from 1st to 3th place. *Importantly, no previous knowledge about games is needed—just a passion for creation!*
 RULES
@@ -20,8 +20,9 @@ RULES
 
 |               | Beginner      | Community | Professional |
 | ------------- | ------------- |-----------|-------------|
-|Game Egnine    | Not required  |Any Game Engine, such as Unity, Unreal, CryEngine, Godot, GameMaker, Construct, Lumberyard and etc|Unity or Unreal only|
-|Game Assets    | Not required  |Create from scratch Or Come from 3rd Part Webpages|Create from scratch|
-|Submission     | Game not necessarily made with a Professional Game Engine |	Game made with a Game Engin|	Game made with a Game Engin|
+|**Game Engine**| Not required  |Any Game Engine, such as Unity, Unreal, CryEngine, Godot, GameMaker, Construct, Lumberyard and etc|Unity or Unreal only|
+|**Game Assets**| Not required  |Create from scratch Or Come from 3rd Part Webpages|Create from scratch|
+|**Submission** | Game not necessarily made with a Professional Game Engine |	Game made with a Game Engin|	Game made with a Game Engin|
 
 ## Sign Up Sheet
+https://docs.google.com/forms/d/e/1FAIpQLSdeVUS_w9mknPOjjczpfiJ4QLfodQQmk1qFPO7t9yzACvIlrQ/viewform?usp=sf_link
