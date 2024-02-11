@@ -1,5 +1,4 @@
 # The 2nd UCM Game Jam
-![UCM Game jam flyer](https://github.com/linruizhangucm/2ndUCMGameJam/assets/159723474/fc2de621-b5ac-4e98-a56e-91c1dc5c76c2)
 ## THEME
 TBD
 ## Important Dates
@@ -24,9 +23,13 @@ RULES
 |**Game Assets**| Not required  |Create from scratch or download from 3rd Part Webpages|Create from scratch|
 |**Submission** | Game not necessarily made with a Professional Game Engine |	Game made with a Game Engin|	Game made with a Game Engin|
 
-## Sign Up Sheet
-+ If you already have a team, please sign up using the following link
-  https://docs.google.com/forms/d/e/1FAIpQLSdeVUS_w9mknPOjjczpfiJ4QLfodQQmk1qFPO7t9yzACvIlrQ/viewform?usp=sf_link
-+ If you need someone to form a team, please fill out the following form. Your information will be shared other students who fill out this form.
-
-  https://docs.google.com/spreadsheets/d/1SRD12jPocODfro364Mxu-I6N3Qt94wfpqbnHd7btYnY/edit?usp=sharing
+## Important Link
++ **Sign Up Sheet**.
+  - If you already have a team, please sign up using the following link
+  - https://docs.google.com/forms/d/e/1FAIpQLSdeVUS_w9mknPOjjczpfiJ4QLfodQQmk1qFPO7t9yzACvIlrQ/viewform?usp=sf_link
+  - If you need someone to form a team, please fill out the following form. **Your information will be shared other students who fill out this form. You can contact each other to form a team. Once the team is established, please use the above link to sign up and meanwhile remove your information from this form **
+  - https://docs.google.com/spreadsheets/d/1SRD12jPocODfro364Mxu-I6N3Qt94wfpqbnHd7btYnY/edit?usp=sharing
++ **Game Submission Link**.
+    -TBD
+## flyer
+![UCM Game jam flyer](https://github.com/linruizhangucm/2ndUCMGameJam/assets/159723474/fc2de621-b5ac-4e98-a56e-91c1dc5c76c2)
