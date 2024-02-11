@@ -25,4 +25,8 @@ RULES
 |**Submission** | Game not necessarily made with a Professional Game Engine |	Game made with a Game Engin|	Game made with a Game Engin|
 
 ## Sign Up Sheet
-https://docs.google.com/forms/d/e/1FAIpQLSdeVUS_w9mknPOjjczpfiJ4QLfodQQmk1qFPO7t9yzACvIlrQ/viewform?usp=sf_link
++ If you already have a team, please sign up using the following link
+  https://docs.google.com/forms/d/e/1FAIpQLSdeVUS_w9mknPOjjczpfiJ4QLfodQQmk1qFPO7t9yzACvIlrQ/viewform?usp=sf_link
++ If you need someone to form a team, please fill out the following form. Your information will be shared other students who fill out this form.
+
+  https://docs.google.com/spreadsheets/d/1SRD12jPocODfro364Mxu-I6N3Qt94wfpqbnHd7btYnY/edit?usp=sharing
