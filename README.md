@@ -20,7 +20,7 @@ UCM Game Jam is an annual event organized by the UCM Computer Science Department
 |               | Beginner      | Community | Professional |
 | ------------- | ------------- |-----------|-------------|
 |**Game Engine**| Not required  |Any Game Engine, such as Unity, Unreal, CryEngine, Godot, GameMaker, Construct, Lumberyard and etc|Unity or Unreal only|
-|**Game Assets**| Not required  |Create from scratch or download from 3rd Part Webpages, such as Unity Assets store or Unreal Marketplace|Create from scratch|
+|**Game Assets**| Not required  |Create from scratch or download from 3rd Party Webpages, such as Unity Assets store or Unreal Marketplace|Create from scratch|
 |**Submission** | Game not necessarily made with a Professional Game Engine |	Game made with a Game Engine|	Game made with a Game Engine|
 
 ## Important Link
