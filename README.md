@@ -21,7 +21,7 @@ RULES
 |               | Beginner      | Community | Professional |
 | ------------- | ------------- |-----------|-------------|
 |**Game Engine**| Not required  |Any Game Engine, such as Unity, Unreal, CryEngine, Godot, GameMaker, Construct, Lumberyard and etc|Unity or Unreal only|
-|**Game Assets**| Not required  |Create from scratch Or Come from 3rd Part Webpages|Create from scratch|
+|**Game Assets**| Not required  |Create from scratch or download from 3rd Part Webpages|Create from scratch|
 |**Submission** | Game not necessarily made with a Professional Game Engine |	Game made with a Game Engin|	Game made with a Game Engin|
 
 ## Sign Up Sheet
