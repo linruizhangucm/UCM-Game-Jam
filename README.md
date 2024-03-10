@@ -1,6 +1,6 @@
 # The 2nd UCM Game Jam
 ## THEME
-Midnight Mischief
+**Midnight Mischief**
 ## Important Dates
 + **Registration opens**: Feb 26 – March 1
 + **Theme reveal**: March 11
