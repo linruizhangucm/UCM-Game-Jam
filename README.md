@@ -2,14 +2,14 @@
 ## THEME
 **TBD**
 ## Important Dates
-+ **Registration opens**: Feb 26 – March 1
-+ **Theme reveal**: March 11
-+ **Game submission**: March 22
++ **Registration opens**: March 3 – March 16
++ **Theme reveal**: March 17
++ **Game submission**: April 1st
 ## About the Event:
 UCM Game Jam is an annual event organized by the UCM Computer Science Department. This initiative aims to ignite students' passion for game development, enhance their game design and development skills, and foster healthy competition for prizes. Participants can engage either **individually** or form **teams of up to four** members and will have a **two-week** timeframe for planning, designing, and crafting a video game from scratch based on a specific theme. At the end of the jam, submitted games will be evaluated by faculty members from the CS department, and winners will be awarded mini prizes - Starbucks gift card. Students are offered a choice between three participation tracks, namely **beginner**, **community** and **professional**, tailored to their expertise levels. The competition will recognize **three** outstanding entries in each track, ranging from 1st to 3th place. *Importantly, no previous knowledge about games is needed—just a passion for creation!*
 ### RULES
 + Games will be judged based on *Game Design*, *Programming*, *Visuals*, *Sound Design*, *Originality*, *Theme*, and *FUN*!
-+ All games must be submitted by ***March 22 at midnight***. Games cannot be scored after this deadline.
++ All games must be submitted by ***April 1st at midnight***. Games cannot be scored after this deadline.
 + ***Windows builds only***. Mac builds are not allowed. 
 + The size of submissions should not exceed ***400M***.
 + While controllers are allowed, ***games must also be playable with a keyboard and/or mouse***.
