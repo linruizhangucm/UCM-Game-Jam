@@ -1,6 +1,6 @@
-# The 3nd UCM Game Jam
+# The 3rd UCM Game Jam
 ## THEME
-**TBD**
+**The Power of One**
 ## Important Dates
 + **Registration opens**: March 3 – March 16
 + **Theme reveal**: March 17
