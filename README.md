@@ -28,7 +28,7 @@ UCM Game Jam is an annual event organized by the UCM Computer Science Department
   - If you already have a team, please sign up using the following link. Only ***one person, the team leader,*** needs to sign-up for the team, however, all teammates must also be listed!
   - [https://docs.google.com/forms/d/e/1FAIpQLSdeVUS_w9mknPOjjczpfiJ4QLfodQQmk1qFPO7t9yzACvIlrQ/viewform?usp=sf_link](https://docs.google.com/forms/d/e/1FAIpQLScOCp9jtlx5_Ra0ideRN7JTGEfsEYhQ1MAEWULEmlOweJmhdQ/viewform?usp=header)
   - If you need someone to form a team, please fill out the following form. **Your information will be shared with other students who also fill-out this form. You can contact each other to find your teammates. Once the team is established, please remove your information from this form to avoid further contact from others and use the above link to sign up**.
-  - https://docs.google.com/spreadsheets/d/1SRD12jPocODfro364Mxu-I6N3Qt94wfpqbnHd7btYnY/edit?usp=sharing
+  - [https://docs.google.com/spreadsheets/d/1SRD12jPocODfro364Mxu-I6N3Qt94wfpqbnHd7btYnY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1T3qIIocrv9ko4LmQrG86q_u6YSl2p7nevx1CZoTgbNA/edit?usp=drive_link)
 + **Game Submission Link**.
    https://drive.google.com/drive/folders/1xR-n5h4BP1nOT-dyV58_z5tRJsZQHlVq?usp=sharing
 ## Contact
