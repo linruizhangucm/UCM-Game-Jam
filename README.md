@@ -1,4 +1,4 @@
-# The 4rd UCM Game Jam
+# The 4th UCM Game Jam
 ## THEME
 **TBD**
 ## Important Dates
