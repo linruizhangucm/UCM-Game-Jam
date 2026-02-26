@@ -36,5 +36,5 @@ UCM Game Jam is an annual event organized by the UCM Computer Science Department
 ## Contact
 If you have any questions regarding the game jam, please contact Dr. Linrui Zhang (lzhang@ucmo.edu)
 ## Flyer
-!<img width="3508" height="4961" alt="Flyer" src="https://github.com/user-attachments/assets/09f5c86e-9949-431f-9a09-e081fd0faa40" />
+<img width="3508" height="4961" alt="Flyer" src="https://github.com/user-attachments/assets/09f5c86e-9949-431f-9a09-e081fd0faa40" />
 
