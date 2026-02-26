@@ -2,7 +2,7 @@
 ## THEME
 **TBD**
 ## Important Dates
-+ **Registration opens**: Today – 3/20/2026
++ **Registration opens**: Today ~ 3/20/2026
 + **Theme reveal**: 3/22/2026
 + **Game Jam**: 3/23/2026 ~ 4/6/2026
 + **Game submission**: 4/6/2026
